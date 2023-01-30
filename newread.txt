@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CC2B-B42C
+
+ Directory of C:\Users\jha_ni\Desktop\javaproject
+
+30-01-2023  12:32    <DIR>          .
+30-01-2023  12:32    <DIR>          ..
+28-01-2023  23:22               118 Hello.java
+30-01-2023  12:31               451 newfile.html
+30-01-2023  12:32                 0 newread.txt
+29-01-2023  10:29               415 Simple.class
+               4 File(s)            984 bytes
+               2 Dir(s)  59,240,198,144 bytes free
